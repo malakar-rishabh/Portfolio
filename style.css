@@ -149,7 +149,7 @@ main hr {
     cursor: pointer;
 }
 
-.box div h1:hover {
+.box div h1 a:hover {
     color: rgb(18, 18, 62);
     font-size: 2.2rem;
 }
@@ -212,4 +212,8 @@ footer h4 {
 }
 .form form div{
     padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(246, 137, 155);;
 }
